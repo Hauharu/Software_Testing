@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator_hau_4", "Calculator\Calculator_hau_4.csproj", "{CF47DFF1-6913-4E6B-8F00-CB94C3E88D12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTester_hau_4", "..\CalculatorTester\CalculatorTester_hau_4.csproj", "{CC4FED22-C341-445B-AC89-F0B3913D54D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF47DFF1-6913-4E6B-8F00-CB94C3E88D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF47DFF1-6913-4E6B-8F00-CB94C3E88D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF47DFF1-6913-4E6B-8F00-CB94C3E88D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF47DFF1-6913-4E6B-8F00-CB94C3E88D12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC4FED22-C341-445B-AC89-F0B3913D54D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4FED22-C341-445B-AC89-F0B3913D54D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4FED22-C341-445B-AC89-F0B3913D54D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4FED22-C341-445B-AC89-F0B3913D54D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1932EC26-BD57-4463-B4E4-811EA6E31D91}
+	EndGlobalSection
+EndGlobal
