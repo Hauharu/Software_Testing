@@ -1,2 +1,2 @@
 # Software_Testing_CSharp 
-This is a practice exercise on testing with C#
+A practice exercise focused on software testing using C#
